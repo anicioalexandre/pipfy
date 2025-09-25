@@ -1,0 +1,1 @@
+export const MIN_VIDEOS_SIZE_TO_SHOW_MORE_VIDEOS = 2
